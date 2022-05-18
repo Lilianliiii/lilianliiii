@@ -10,5 +10,5 @@ My name is Lilian and I'm a recent graduate of Le Wagon's full-stack web develop
 - 📫 How to reach me: lil712@hotmail.com
 - 🔗 Connect with me on linkedin.com/in/liliantongli
 
-I can speak both English and Mandarin fluently 🇦🇺🇨🇳
+I can speak both English and Mandarin fluently 🇦🇺🇨🇳 </br>
 I am located in Shanghai but open to move to another country 🌍
